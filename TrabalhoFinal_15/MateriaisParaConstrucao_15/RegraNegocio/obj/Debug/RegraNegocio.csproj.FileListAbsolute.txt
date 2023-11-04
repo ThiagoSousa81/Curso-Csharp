@@ -1,0 +1,128 @@
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\RegraNegocio\bin\Debug\RegraNegocio.dll
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\RegraNegocio\bin\Debug\RegraNegocio.pdb
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\RegraNegocio\bin\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\RegraNegocio\bin\Debug\AcessoDados.pdb
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\RegraNegocio\obj\Debug\RegraNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\RegraNegocio\obj\Debug\RegraNegocio.dll
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\RegraNegocio\obj\Debug\RegraNegocio.pdb
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\RegraNegocio\bin\Debug\RegraNegocio.dll
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\RegraNegocio\bin\Debug\RegraNegocio.pdb
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\RegraNegocio\bin\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\RegraNegocio\bin\Debug\AcessoDados.pdb
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\RegraNegocio\obj\Debug\RegraNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\RegraNegocio\obj\Debug\RegraNegocio.dll
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\RegraNegocio\obj\Debug\RegraNegocio.pdb
+D:\MateriaisParaConstrucao - aula 18\RegraNegocio\bin\Debug\RegraNegocio.dll
+D:\MateriaisParaConstrucao - aula 18\RegraNegocio\bin\Debug\RegraNegocio.pdb
+D:\MateriaisParaConstrucao - aula 18\RegraNegocio\bin\Debug\AcessoDados.dll
+D:\MateriaisParaConstrucao - aula 18\RegraNegocio\bin\Debug\AcessoDados.pdb
+D:\MateriaisParaConstrucao - aula 18\RegraNegocio\obj\Debug\RegraNegocio.csprojResolveAssemblyReference.cache
+D:\MateriaisParaConstrucao - aula 18\RegraNegocio\obj\Debug\RegraNegocio.dll
+D:\MateriaisParaConstrucao - aula 18\RegraNegocio\obj\Debug\RegraNegocio.pdb
+D:\Aula 19\MateriaisParaConstrucao - aula 19 final\RegraNegocio\obj\Debug\RegraNegocio.csprojResolveAssemblyReference.cache
+D:\Aula 19\MateriaisParaConstrucao - aula 19 final\RegraNegocio\obj\Debug\RegraNegocio.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial\RegraNegocio\bin\Debug\RegraNegocio.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial\RegraNegocio\bin\Debug\RegraNegocio.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial\RegraNegocio\bin\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial\RegraNegocio\bin\Debug\AcessoDados.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial\RegraNegocio\obj\Debug\RegraNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial\RegraNegocio\obj\Debug\RegraNegocio.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial\RegraNegocio\obj\Debug\RegraNegocio.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial - TESTE\RegraNegocio\bin\Debug\RegraNegocio.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial - TESTE\RegraNegocio\bin\Debug\RegraNegocio.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial - TESTE\RegraNegocio\bin\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial - TESTE\RegraNegocio\bin\Debug\AcessoDados.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial - TESTE\RegraNegocio\obj\Debug\RegraNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial - TESTE\RegraNegocio\obj\Debug\RegraNegocio.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial - TESTE\RegraNegocio\obj\Debug\RegraNegocio.pdb
+D:\Aula 21 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - aula 21 inicial - Copia\RegraNegocio\bin\Debug\RegraNegocio.dll
+D:\Aula 21 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - aula 21 inicial - Copia\RegraNegocio\bin\Debug\RegraNegocio.pdb
+D:\Aula 21 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - aula 21 inicial - Copia\RegraNegocio\bin\Debug\AcessoDados.dll
+D:\Aula 21 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - aula 21 inicial - Copia\RegraNegocio\bin\Debug\AcessoDados.pdb
+D:\Aula 21 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - aula 21 inicial - Copia\RegraNegocio\obj\Debug\RegraNegocio.csprojResolveAssemblyReference.cache
+D:\Aula 21 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - aula 21 inicial - Copia\RegraNegocio\obj\Debug\RegraNegocio.dll
+D:\Aula 21 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - aula 21 inicial - Copia\RegraNegocio\obj\Debug\RegraNegocio.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 22\RegraNegocio\bin\Debug\RegraNegocio.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 22\RegraNegocio\bin\Debug\RegraNegocio.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 22\RegraNegocio\bin\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 22\RegraNegocio\bin\Debug\AcessoDados.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 22\RegraNegocio\obj\Debug\RegraNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 22\RegraNegocio\obj\Debug\RegraNegocio.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 22\RegraNegocio\obj\Debug\RegraNegocio.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 24\RegraNegocio\bin\Debug\RegraNegocio.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 24\RegraNegocio\bin\Debug\RegraNegocio.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 24\RegraNegocio\bin\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 24\RegraNegocio\bin\Debug\AcessoDados.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 24\RegraNegocio\obj\Debug\RegraNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 24\RegraNegocio\obj\Debug\RegraNegocio.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 24\RegraNegocio\obj\Debug\RegraNegocio.pdb
+D:\Aula 25 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - incial aula 25 - Copia\RegraNegocio\bin\Debug\RegraNegocio.dll
+D:\Aula 25 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - incial aula 25 - Copia\RegraNegocio\bin\Debug\RegraNegocio.pdb
+D:\Aula 25 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - incial aula 25 - Copia\RegraNegocio\bin\Debug\AcessoDados.dll
+D:\Aula 25 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - incial aula 25 - Copia\RegraNegocio\bin\Debug\AcessoDados.pdb
+D:\Aula 25 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - incial aula 25 - Copia\RegraNegocio\obj\Debug\RegraNegocio.csprojResolveAssemblyReference.cache
+D:\Aula 25 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - incial aula 25 - Copia\RegraNegocio\obj\Debug\RegraNegocio.dll
+D:\Aula 25 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - incial aula 25 - Copia\RegraNegocio\obj\Debug\RegraNegocio.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - inicial aula 26 - teste\RegraNegocio\bin\Debug\RegraNegocio.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - inicial aula 26 - teste\RegraNegocio\bin\Debug\RegraNegocio.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - inicial aula 26 - teste\RegraNegocio\bin\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - inicial aula 26 - teste\RegraNegocio\bin\Debug\AcessoDados.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - inicial aula 26 - teste\RegraNegocio\obj\Debug\RegraNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - inicial aula 26 - teste\RegraNegocio\obj\Debug\RegraNegocio.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - inicial aula 26 - teste\RegraNegocio\obj\Debug\RegraNegocio.pdb
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 27\RegraNegocio\obj\Debug\RegraNegocio.csprojResolveAssemblyReference.cache
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 27\RegraNegocio\obj\Debug\RegraNegocio.dll
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 27\RegraNegocio\bin\Debug\RegraNegocio.dll
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 27\RegraNegocio\bin\Debug\RegraNegocio.pdb
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 27\RegraNegocio\bin\Debug\AcessoDados.dll
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 27\RegraNegocio\bin\Debug\AcessoDados.pdb
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 27\RegraNegocio\obj\Debug\RegraNegocio.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 27 - Copia\RegraNegocio\bin\Debug\RegraNegocio.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 27 - Copia\RegraNegocio\bin\Debug\RegraNegocio.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 27 - Copia\RegraNegocio\bin\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 27 - Copia\RegraNegocio\bin\Debug\AcessoDados.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 27 - Copia\RegraNegocio\obj\Debug\RegraNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 27 - Copia\RegraNegocio\obj\Debug\RegraNegocio.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 27 - Copia\RegraNegocio\obj\Debug\RegraNegocio.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29\RegraNegocio\bin\Debug\RegraNegocio.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29\RegraNegocio\bin\Debug\RegraNegocio.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29\RegraNegocio\bin\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29\RegraNegocio\bin\Debug\AcessoDados.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29\RegraNegocio\obj\Debug\RegraNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29\RegraNegocio\obj\Debug\RegraNegocio.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29\RegraNegocio\obj\Debug\RegraNegocio.pdb
+C:\Users\eduardo\Desktop\MateriaisParaConstrucao - final aula 29\RegraNegocio\bin\Debug\RegraNegocio.dll
+C:\Users\eduardo\Desktop\MateriaisParaConstrucao - final aula 29\RegraNegocio\bin\Debug\RegraNegocio.pdb
+C:\Users\eduardo\Desktop\MateriaisParaConstrucao - final aula 29\RegraNegocio\bin\Debug\AcessoDados.dll
+C:\Users\eduardo\Desktop\MateriaisParaConstrucao - final aula 29\RegraNegocio\bin\Debug\AcessoDados.pdb
+C:\Users\eduardo\Desktop\MateriaisParaConstrucao - final aula 29\RegraNegocio\obj\Debug\RegraNegocio.csprojResolveAssemblyReference.cache
+C:\Users\eduardo\Desktop\MateriaisParaConstrucao - final aula 29\RegraNegocio\obj\Debug\RegraNegocio.dll
+C:\Users\eduardo\Desktop\MateriaisParaConstrucao - final aula 29\RegraNegocio\obj\Debug\RegraNegocio.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Eduardo\RegraNegocio\bin\Debug\RegraNegocio.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Eduardo\RegraNegocio\bin\Debug\RegraNegocio.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Eduardo\RegraNegocio\bin\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Eduardo\RegraNegocio\bin\Debug\AcessoDados.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Eduardo\RegraNegocio\obj\Debug\RegraNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Eduardo\RegraNegocio\obj\Debug\RegraNegocio.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Eduardo\RegraNegocio\obj\Debug\RegraNegocio.pdb
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 30\MateriaisParaConstrucao - final\RegraNegocio\bin\Debug\RegraNegocio.dll
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 30\MateriaisParaConstrucao - final\RegraNegocio\bin\Debug\RegraNegocio.pdb
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 30\MateriaisParaConstrucao - final\RegraNegocio\bin\Debug\AcessoDados.dll
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 30\MateriaisParaConstrucao - final\RegraNegocio\bin\Debug\AcessoDados.pdb
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 30\MateriaisParaConstrucao - final\RegraNegocio\obj\Debug\RegraNegocio.csprojResolveAssemblyReference.cache
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 30\MateriaisParaConstrucao - final\RegraNegocio\obj\Debug\RegraNegocio.dll
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 30\MateriaisParaConstrucao - final\RegraNegocio\obj\Debug\RegraNegocio.pdb
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - teste\RegraNegocio\bin\Debug\RegraNegocio.dll
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - teste\RegraNegocio\bin\Debug\RegraNegocio.pdb
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - teste\RegraNegocio\bin\Debug\AcessoDados.dll
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - teste\RegraNegocio\bin\Debug\AcessoDados.pdb
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - teste\RegraNegocio\obj\Debug\RegraNegocio.csprojResolveAssemblyReference.cache
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - teste\RegraNegocio\obj\Debug\RegraNegocio.dll
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - teste\RegraNegocio\obj\Debug\RegraNegocio.pdb
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - final\RegraNegocio\bin\Debug\RegraNegocio.dll
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - final\RegraNegocio\bin\Debug\RegraNegocio.pdb
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - final\RegraNegocio\bin\Debug\AcessoDados.dll
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - final\RegraNegocio\bin\Debug\AcessoDados.pdb
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - final\RegraNegocio\obj\Debug\RegraNegocio.csprojResolveAssemblyReference.cache
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - final\RegraNegocio\obj\Debug\RegraNegocio.dll
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - final\RegraNegocio\obj\Debug\RegraNegocio.pdb

@@ -1,0 +1,950 @@
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 01\MateriaisParaConstrucao\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 01\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 01\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csprojResolveAssemblyReference.cache
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 01\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPrincipal.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 01\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.Properties.Resources.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 01\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csproj.GenerateResource.Cache
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 01\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 01\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.pdb
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 01\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 01\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 02\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 02\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 02\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 02\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 02\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 02\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+C:\Users\rogerio\Desktop\Atividades Extras Módulo 3\Aula 02 - Cópia\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+C:\Users\rogerio\Desktop\Atividades Extras Módulo 3\Aula 02 - Cópia\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+C:\Users\rogerio\Desktop\Atividades Extras Módulo 3\Aula 02 - Cópia\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+C:\Users\rogerio\Desktop\Atividades Extras Módulo 3\Aula 02 - Cópia\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe
+C:\Users\rogerio\Desktop\Atividades Extras Módulo 3\Aula 02 - Cópia\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.pdb
+C:\Users\rogerio\Desktop\Atividades Extras Módulo 3\Aula 02 - Cópia\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csprojResolveAssemblyReference.cache
+C:\Users\rogerio\Desktop\Atividades Extras Módulo 3\Aula 02 - Cópia\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFuncionarios.resources
+C:\Users\rogerio\Desktop\Atividades Extras Módulo 3\Aula 02 - Cópia\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPrincipal.resources
+C:\Users\rogerio\Desktop\Atividades Extras Módulo 3\Aula 02 - Cópia\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.Properties.Resources.resources
+C:\Users\rogerio\Desktop\Atividades Extras Módulo 3\Aula 02 - Cópia\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csproj.GenerateResource.Cache
+C:\Users\rogerio\Desktop\Atividades Extras Módulo 3\Aula 02\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+C:\Users\rogerio\Desktop\Atividades Extras Módulo 3\Aula 02\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+C:\Users\rogerio\Desktop\Atividades Extras Módulo 3\Aula 02\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+C:\Users\elilize\Desktop\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+C:\Users\elilize\Desktop\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+C:\Users\elilize\Desktop\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+C:\Users\elilize\Desktop\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe
+C:\Users\elilize\Desktop\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.pdb
+C:\Users\elilize\Desktop\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csprojResolveAssemblyReference.cache
+C:\Users\elilize\Desktop\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFuncionarios.resources
+C:\Users\elilize\Desktop\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPrincipal.resources
+C:\Users\elilize\Desktop\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.Properties.Resources.resources
+C:\Users\elilize\Desktop\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csproj.GenerateResource.Cache
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 03\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 03\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 03\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 03\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 03\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 03\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 03\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 03\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.pdb
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 03\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csprojResolveAssemblyReference.cache
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 03\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFuncionarios.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 03\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPrincipal.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 03\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.Properties.Resources.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 03\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csproj.GenerateResource.Cache
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 04\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 04\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 04\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 04\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 04\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 04\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 04\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 04\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.pdb
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 04\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csprojResolveAssemblyReference.cache
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 04\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFuncionarios.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 04\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPrincipal.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 04\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.Properties.Resources.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 04\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csproj.GenerateResource.Cache
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 05\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 05\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 05\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 05\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 05\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 05\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 05\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 05\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.pdb
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 05\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csprojResolveAssemblyReference.cache
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 05\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFuncionarios.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 05\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPrincipal.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 05\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.Properties.Resources.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 05\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csproj.GenerateResource.Cache
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 06\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 06\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 06\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 07\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 07\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 07\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 07\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 07\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 07\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 07\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 07\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.pdb
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 07\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csprojResolveAssemblyReference.cache
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 07\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmClientes.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 07\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFuncionarios.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 07\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPrincipal.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 07\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.Properties.Resources.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 07\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csproj.GenerateResource.Cache
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 08\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 08\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 08\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 08\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 08\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 08\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 08\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 08\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.pdb
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 08\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csprojResolveAssemblyReference.cache
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 08\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmClientes.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 08\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFuncionarios.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 08\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPrincipal.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 08\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.Properties.Resources.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 08\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csproj.GenerateResource.Cache
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 09\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 09\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 09\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 10\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 10\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 10\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 10\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 10\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.pdb
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 10\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csprojResolveAssemblyReference.cache
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 10\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmCategoria.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 10\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmClientes.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 10\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFuncionarios.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 10\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPrincipal.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 10\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmProdutos.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 10\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUnidades.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 10\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.Properties.Resources.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 10\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csproj.GenerateResource.Cache
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 10\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 10\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 10\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 10\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 10\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.pdb
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 10\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csprojResolveAssemblyReference.cache
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 10\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmCategoria.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 10\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmClientes.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 10\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFuncionarios.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 10\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPrincipal.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 10\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmProdutos.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 10\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUnidades.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 10\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.Properties.Resources.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 10\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csproj.GenerateResource.Cache
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 11\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 11\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 11\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 11\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 11\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.pdb
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 11\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csprojResolveAssemblyReference.cache
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 11\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmCategoria.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 11\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmClientes.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 11\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFuncionarios.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 11\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPrincipal.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 11\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmProdutos.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 11\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUnidades.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 11\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.Properties.Resources.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 11\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csproj.GenerateResource.Cache
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\MateriaisParaConstrucao - final aula 12\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\MateriaisParaConstrucao - final aula 12\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\MateriaisParaConstrucao - final aula 12\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 12\MateriaisParaConstrucao - estrutura\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 12\MateriaisParaConstrucao - estrutura\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 12\MateriaisParaConstrucao - estrutura\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 12\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 12\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 12\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 12\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 12\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.pdb
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 12\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csprojResolveAssemblyReference.cache
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 12\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmCategoria.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 12\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmClientes.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 12\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFuncionarios.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 12\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPrincipal.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 12\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmProdutos.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 12\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUnidades.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 12\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.Properties.Resources.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 12\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csproj.GenerateResource.Cache
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 13\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 13\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 13\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 13\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 13\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 13\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 13\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 13\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.pdb
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 13\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csprojResolveAssemblyReference.cache
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 13\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmCategoria.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 13\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmClientes.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 13\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFuncionarios.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 13\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPrincipal.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 13\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmProdutos.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 13\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUnidades.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 13\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.Properties.Resources.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 13\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csproj.GenerateResource.Cache
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 14\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 14\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 14\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 14\MateriaisParaConstrucao - inicial - Cópia\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 14\MateriaisParaConstrucao - inicial - Cópia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 14\MateriaisParaConstrucao - inicial - Cópia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 14\MateriaisParaConstrucao - inicial - Cópia\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 14\MateriaisParaConstrucao - inicial - Cópia\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.pdb
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 14\MateriaisParaConstrucao - inicial - Cópia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csprojResolveAssemblyReference.cache
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 14\MateriaisParaConstrucao - inicial - Cópia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmCategoria.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 14\MateriaisParaConstrucao - inicial - Cópia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmClientes.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 14\MateriaisParaConstrucao - inicial - Cópia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFuncionarios.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 14\MateriaisParaConstrucao - inicial - Cópia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPrincipal.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 14\MateriaisParaConstrucao - inicial - Cópia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmProdutos.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 14\MateriaisParaConstrucao - inicial - Cópia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUnidades.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 14\MateriaisParaConstrucao - inicial - Cópia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.Properties.Resources.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 14\MateriaisParaConstrucao - inicial - Cópia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csproj.GenerateResource.Cache
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 14\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 14\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 14\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 15\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 15\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 15\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 15\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 15\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 15\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 15\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 15\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.pdb
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 15\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csprojResolveAssemblyReference.cache
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 15\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmCategoria.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 15\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmClientes.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 15\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFuncionarios.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 15\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPrincipal.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 15\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmProdutos.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 15\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUnidades.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 15\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.Properties.Resources.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 15\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csproj.GenerateResource.Cache
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 16\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 16\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 16\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 16\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 16\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.pdb
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 16\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csprojResolveAssemblyReference.cache
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 16\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmCategoria.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 16\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmClientes.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 16\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFuncionarios.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 16\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPrincipal.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 16\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmProdutos.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 16\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUnidades.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 16\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.Properties.Resources.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 16\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csproj.GenerateResource.Cache
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.pdb
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csprojResolveAssemblyReference.cache
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmCategoria.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmClientes.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFuncionarios.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPrincipal.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmProdutos.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUnidades.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.Properties.Resources.resources
+D:\1-DESENVOLVIMENTO\6- Visual Studio 2012 CSharp - Avançado\Atividades Extras Módulo 3\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csproj.GenerateResource.Cache
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.pdb
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csprojResolveAssemblyReference.cache
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmCategoria.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmClientes.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFuncionarios.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPrincipal.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmProdutos.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUnidades.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.Properties.Resources.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csproj.GenerateResource.Cache
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csprojResolveAssemblyReference.cache
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmCategoria.resources
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmClientes.resources
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFuncionarios.resources
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPrincipal.resources
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmProdutos.resources
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUnidades.resources
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.Properties.Resources.resources
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csproj.GenerateResource.Cache
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.pdb
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\RegraNegocio.dll
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\RegraNegocio.pdb
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\AcessoDados.pdb
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csprojResolveAssemblyReference.cache
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmCategoria.resources
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmClientes.resources
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFuncionarios.resources
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPrincipal.resources
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmProdutos.resources
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUnidades.resources
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.Properties.Resources.resources
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csproj.GenerateResource.Cache
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.pdb
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\RegraNegocio.dll
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\RegraNegocio.pdb
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\AcessoDados.pdb
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmRelatorios.resources
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\RdlCompile.cache
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\RdlCompile.compiled
+D:\MateriaisParaConstrucao - aula 18\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+D:\MateriaisParaConstrucao - aula 18\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+D:\MateriaisParaConstrucao - aula 18\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+D:\MateriaisParaConstrucao - aula 18\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe
+D:\MateriaisParaConstrucao - aula 18\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.pdb
+D:\MateriaisParaConstrucao - aula 18\MateriaisParaConstrucao\bin\Debug\RegraNegocio.dll
+D:\MateriaisParaConstrucao - aula 18\MateriaisParaConstrucao\bin\Debug\AcessoDados.dll
+D:\MateriaisParaConstrucao - aula 18\MateriaisParaConstrucao\bin\Debug\RegraNegocio.pdb
+D:\MateriaisParaConstrucao - aula 18\MateriaisParaConstrucao\bin\Debug\AcessoDados.pdb
+D:\MateriaisParaConstrucao - aula 18\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csprojResolveAssemblyReference.cache
+D:\MateriaisParaConstrucao - aula 18\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmCategoria.resources
+D:\MateriaisParaConstrucao - aula 18\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmClientes.resources
+D:\MateriaisParaConstrucao - aula 18\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFuncionarios.resources
+D:\MateriaisParaConstrucao - aula 18\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPrincipal.resources
+D:\MateriaisParaConstrucao - aula 18\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmProdutos.resources
+D:\MateriaisParaConstrucao - aula 18\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmRelatorios.resources
+D:\MateriaisParaConstrucao - aula 18\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUnidades.resources
+D:\MateriaisParaConstrucao - aula 18\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.Properties.Resources.resources
+D:\MateriaisParaConstrucao - aula 18\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csproj.GenerateResource.Cache
+D:\MateriaisParaConstrucao - aula 18\MateriaisParaConstrucao\obj\Debug\RdlCompile.cache
+D:\MateriaisParaConstrucao - aula 18\MateriaisParaConstrucao\obj\Debug\RdlCompile.compiled
+D:\Aula 19\MateriaisParaConstrucao - aula 19 final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+D:\Aula 19\MateriaisParaConstrucao - aula 19 final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+D:\Aula 19\MateriaisParaConstrucao - aula 19 final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+D:\Aula 19\MateriaisParaConstrucao - aula 19 final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe
+D:\Aula 19\MateriaisParaConstrucao - aula 19 final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.pdb
+D:\Aula 19\MateriaisParaConstrucao - aula 19 final\MateriaisParaConstrucao\bin\Debug\RegraNegocio.dll
+D:\Aula 19\MateriaisParaConstrucao - aula 19 final\MateriaisParaConstrucao\bin\Debug\AcessoDados.dll
+D:\Aula 19\MateriaisParaConstrucao - aula 19 final\MateriaisParaConstrucao\bin\Debug\RegraNegocio.pdb
+D:\Aula 19\MateriaisParaConstrucao - aula 19 final\MateriaisParaConstrucao\bin\Debug\AcessoDados.pdb
+D:\Aula 19\MateriaisParaConstrucao - aula 19 final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csprojResolveAssemblyReference.cache
+D:\Aula 19\MateriaisParaConstrucao - aula 19 final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmCategoria.resources
+D:\Aula 19\MateriaisParaConstrucao - aula 19 final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmClientes.resources
+D:\Aula 19\MateriaisParaConstrucao - aula 19 final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFuncionarios.resources
+D:\Aula 19\MateriaisParaConstrucao - aula 19 final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPrincipal.resources
+D:\Aula 19\MateriaisParaConstrucao - aula 19 final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmProdutos.resources
+D:\Aula 19\MateriaisParaConstrucao - aula 19 final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmRelatorios.resources
+D:\Aula 19\MateriaisParaConstrucao - aula 19 final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUnidades.resources
+D:\Aula 19\MateriaisParaConstrucao - aula 19 final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.Properties.Resources.resources
+D:\Aula 19\MateriaisParaConstrucao - aula 19 final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csproj.GenerateResource.Cache
+D:\Aula 19\MateriaisParaConstrucao - aula 19 final\MateriaisParaConstrucao\obj\Debug\RdlCompile.cache
+D:\Aula 19\MateriaisParaConstrucao - aula 19 final\MateriaisParaConstrucao\obj\Debug\RdlCompile.compiled
+D:\Desenvolvimento\C#\Estruturas\VSC3\Atividades extras\Aula 20\Atividade Extra - Arquivos\MateriaisParaConstrucao - aula 20 inicial\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+D:\Desenvolvimento\C#\Estruturas\VSC3\Atividades extras\Aula 20\Atividade Extra - Arquivos\MateriaisParaConstrucao - aula 20 inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+D:\Desenvolvimento\C#\Estruturas\VSC3\Atividades extras\Aula 20\Atividade Extra - Arquivos\MateriaisParaConstrucao - aula 20 inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial\MateriaisParaConstrucao\bin\Debug\RegraNegocio.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial\MateriaisParaConstrucao\bin\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial\MateriaisParaConstrucao\bin\Debug\RegraNegocio.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial\MateriaisParaConstrucao\bin\Debug\AcessoDados.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csprojResolveAssemblyReference.cache
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmCategoria.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmClientes.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFuncionarios.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPrincipal.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmProdutos.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmRelatorios.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUnidades.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.Properties.Resources.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csproj.GenerateResource.Cache
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial\MateriaisParaConstrucao\obj\Debug\RdlCompile.cache
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial\MateriaisParaConstrucao\obj\Debug\RdlCompile.compiled
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial - TESTE\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial - TESTE\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial - TESTE\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial - TESTE\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial - TESTE\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial - TESTE\MateriaisParaConstrucao\bin\Debug\RegraNegocio.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial - TESTE\MateriaisParaConstrucao\bin\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial - TESTE\MateriaisParaConstrucao\bin\Debug\RegraNegocio.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial - TESTE\MateriaisParaConstrucao\bin\Debug\AcessoDados.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial - TESTE\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csprojResolveAssemblyReference.cache
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial - TESTE\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmCategoria.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial - TESTE\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmClientes.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial - TESTE\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFuncionarios.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial - TESTE\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPrincipal.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial - TESTE\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmProdutos.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial - TESTE\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmRelatorios.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial - TESTE\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUnidades.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial - TESTE\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.Properties.Resources.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial - TESTE\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csproj.GenerateResource.Cache
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial - TESTE\MateriaisParaConstrucao\obj\Debug\RdlCompile.cache
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial - TESTE\MateriaisParaConstrucao\obj\Debug\RdlCompile.compiled
+D:\Aula 21 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - aula 21 inicial - Copia\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+D:\Aula 21 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - aula 21 inicial - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+D:\Aula 21 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - aula 21 inicial - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+D:\Aula 21 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - aula 21 inicial - Copia\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe
+D:\Aula 21 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - aula 21 inicial - Copia\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.pdb
+D:\Aula 21 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - aula 21 inicial - Copia\MateriaisParaConstrucao\bin\Debug\RegraNegocio.dll
+D:\Aula 21 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - aula 21 inicial - Copia\MateriaisParaConstrucao\bin\Debug\AcessoDados.dll
+D:\Aula 21 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - aula 21 inicial - Copia\MateriaisParaConstrucao\bin\Debug\RegraNegocio.pdb
+D:\Aula 21 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - aula 21 inicial - Copia\MateriaisParaConstrucao\bin\Debug\AcessoDados.pdb
+D:\Aula 21 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - aula 21 inicial - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csprojResolveAssemblyReference.cache
+D:\Aula 21 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - aula 21 inicial - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmCategoria.resources
+D:\Aula 21 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - aula 21 inicial - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmClientes.resources
+D:\Aula 21 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - aula 21 inicial - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFuncionarios.resources
+D:\Aula 21 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - aula 21 inicial - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPrincipal.resources
+D:\Aula 21 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - aula 21 inicial - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmProdutos.resources
+D:\Aula 21 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - aula 21 inicial - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmRelatorios.resources
+D:\Aula 21 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - aula 21 inicial - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUnidades.resources
+D:\Aula 21 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - aula 21 inicial - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.Properties.Resources.resources
+D:\Aula 21 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - aula 21 inicial - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csproj.GenerateResource.Cache
+D:\Aula 21 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - aula 21 inicial - Copia\MateriaisParaConstrucao\obj\Debug\RdlCompile.cache
+D:\Aula 21 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - aula 21 inicial - Copia\MateriaisParaConstrucao\obj\Debug\RdlCompile.compiled
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 22\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 22\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 22\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 22\MateriaisParaConstrucao\bin\Debug\RegraNegocio.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 22\MateriaisParaConstrucao\bin\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 22\MateriaisParaConstrucao\bin\Debug\RegraNegocio.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 22\MateriaisParaConstrucao\bin\Debug\AcessoDados.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csprojResolveAssemblyReference.cache
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmCategoria.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmClientes.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFuncionarios.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPrincipal.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmProdutos.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmRelatorios.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUnidades.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.Properties.Resources.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csproj.GenerateResource.Cache
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 22\MateriaisParaConstrucao\obj\Debug\RdlCompile.cache
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 22\MateriaisParaConstrucao\obj\Debug\RdlCompile.compiled
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmNiveis.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUsuarios.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmLogin.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 22 - Cópia\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 22 - Cópia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 22 - Cópia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\bin\Debug\RegraNegocio.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\bin\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\bin\Debug\RegraNegocio.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\bin\Debug\AcessoDados.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csprojResolveAssemblyReference.cache
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmCategoria.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmClientes.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFuncionarios.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmLogin.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmNiveis.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPrincipal.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmProdutos.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmRelatorios.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUnidades.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUsuarios.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.Properties.Resources.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csproj.GenerateResource.Cache
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\obj\Debug\RdlCompile.cache
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\obj\Debug\RdlCompile.compiled
+D:\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+D:\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+D:\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+D:\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe
+D:\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.pdb
+D:\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\bin\Debug\RegraNegocio.dll
+D:\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\bin\Debug\AcessoDados.dll
+D:\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\bin\Debug\RegraNegocio.pdb
+D:\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\bin\Debug\AcessoDados.pdb
+D:\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csprojResolveAssemblyReference.cache
+D:\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmCategoria.resources
+D:\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmClientes.resources
+D:\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFuncionarios.resources
+D:\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmLogin.resources
+D:\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmNiveis.resources
+D:\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPrincipal.resources
+D:\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmProdutos.resources
+D:\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmRelatorios.resources
+D:\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUnidades.resources
+D:\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUsuarios.resources
+D:\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.Properties.Resources.resources
+D:\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csproj.GenerateResource.Cache
+D:\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\obj\Debug\RdlCompile.cache
+D:\MateriaisParaConstrucao - final aula 22\MateriaisParaConstrucao\obj\Debug\RdlCompile.compiled
+D:\Aula 23 - Eliseo - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - final aula 23\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+D:\Aula 23 - Eliseo - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - final aula 23\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+D:\Aula 23 - Eliseo - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - final aula 23\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - inicial aula 24\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - inicial aula 24\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - inicial aula 24\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 24\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 24\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 24\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 24\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 24\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 24\MateriaisParaConstrucao\bin\Debug\RegraNegocio.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 24\MateriaisParaConstrucao\bin\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 24\MateriaisParaConstrucao\bin\Debug\RegraNegocio.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 24\MateriaisParaConstrucao\bin\Debug\AcessoDados.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 24\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csprojResolveAssemblyReference.cache
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 24\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmCategoria.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 24\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmClientes.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 24\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFuncionarios.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 24\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmLogin.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 24\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmNiveis.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 24\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPrincipal.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 24\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmProdutos.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 24\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmRelatorios.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 24\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUnidades.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 24\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUsuarios.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 24\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.Properties.Resources.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 24\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csproj.GenerateResource.Cache
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 24\MateriaisParaConstrucao\obj\Debug\RdlCompile.cache
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 24\MateriaisParaConstrucao\obj\Debug\RdlCompile.compiled
+D:\Aula 25 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - incial aula 25 - Copia\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+D:\Aula 25 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - incial aula 25 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+D:\Aula 25 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - incial aula 25 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+D:\Aula 25 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - incial aula 25 - Copia\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe
+D:\Aula 25 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - incial aula 25 - Copia\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.pdb
+D:\Aula 25 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - incial aula 25 - Copia\MateriaisParaConstrucao\bin\Debug\RegraNegocio.dll
+D:\Aula 25 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - incial aula 25 - Copia\MateriaisParaConstrucao\bin\Debug\AcessoDados.dll
+D:\Aula 25 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - incial aula 25 - Copia\MateriaisParaConstrucao\bin\Debug\RegraNegocio.pdb
+D:\Aula 25 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - incial aula 25 - Copia\MateriaisParaConstrucao\bin\Debug\AcessoDados.pdb
+D:\Aula 25 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - incial aula 25 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csprojResolveAssemblyReference.cache
+D:\Aula 25 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - incial aula 25 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmCategoria.resources
+D:\Aula 25 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - incial aula 25 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmClientes.resources
+D:\Aula 25 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - incial aula 25 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFuncionarios.resources
+D:\Aula 25 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - incial aula 25 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmLogin.resources
+D:\Aula 25 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - incial aula 25 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmNiveis.resources
+D:\Aula 25 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - incial aula 25 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPrincipal.resources
+D:\Aula 25 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - incial aula 25 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmProdutos.resources
+D:\Aula 25 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - incial aula 25 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmRelatorios.resources
+D:\Aula 25 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - incial aula 25 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUnidades.resources
+D:\Aula 25 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - incial aula 25 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUsuarios.resources
+D:\Aula 25 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - incial aula 25 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.Properties.Resources.resources
+D:\Aula 25 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - incial aula 25 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csproj.GenerateResource.Cache
+D:\Aula 25 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - incial aula 25 - Copia\MateriaisParaConstrucao\obj\Debug\RdlCompile.cache
+D:\Aula 25 - Rogério - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - incial aula 25 - Copia\MateriaisParaConstrucao\obj\Debug\RdlCompile.compiled
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 25\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 25\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 25\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 26 - Cópia\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 26 - Cópia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 26 - Cópia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - inicial aula 26\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - inicial aula 26\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - inicial aula 26\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - inicial aula 26 - teste\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - inicial aula 26 - teste\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - inicial aula 26 - teste\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - inicial aula 26 - teste\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - inicial aula 26 - teste\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - inicial aula 26 - teste\MateriaisParaConstrucao\bin\Debug\RegraNegocio.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - inicial aula 26 - teste\MateriaisParaConstrucao\bin\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - inicial aula 26 - teste\MateriaisParaConstrucao\bin\Debug\RegraNegocio.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - inicial aula 26 - teste\MateriaisParaConstrucao\bin\Debug\AcessoDados.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - inicial aula 26 - teste\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csprojResolveAssemblyReference.cache
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - inicial aula 26 - teste\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmCategoria.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - inicial aula 26 - teste\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmClientes.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - inicial aula 26 - teste\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFuncionarios.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - inicial aula 26 - teste\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmLogin.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - inicial aula 26 - teste\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmNiveis.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - inicial aula 26 - teste\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPrincipal.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - inicial aula 26 - teste\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmProdutos.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - inicial aula 26 - teste\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmRelatorios.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - inicial aula 26 - teste\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUnidades.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - inicial aula 26 - teste\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUsuarios.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - inicial aula 26 - teste\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmVendas.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - inicial aula 26 - teste\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.Properties.Resources.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - inicial aula 26 - teste\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csproj.GenerateResource.Cache
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - inicial aula 26 - teste\MateriaisParaConstrucao\obj\Debug\RdlCompile.cache
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - inicial aula 26 - teste\MateriaisParaConstrucao\obj\Debug\RdlCompile.compiled
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 26\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 26\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 26\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 27\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 27\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 27\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 27\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csprojResolveAssemblyReference.cache
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 27\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmCategoria.resources
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 27\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmClientes.resources
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 27\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFuncionarios.resources
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 27\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmLogin.resources
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 27\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmNiveis.resources
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 27\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPrincipal.resources
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 27\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmProdutos.resources
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 27\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmRelatorios.resources
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 27\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUnidades.resources
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 27\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUsuarios.resources
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 27\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmVendas.resources
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 27\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.Properties.Resources.resources
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 27\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csproj.GenerateResource.Cache
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 27\MateriaisParaConstrucao\obj\Debug\RdlCompile.cache
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 27\MateriaisParaConstrucao\obj\Debug\RdlCompile.compiled
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 27\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 27\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.pdb
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 27\MateriaisParaConstrucao\bin\Debug\RegraNegocio.dll
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 27\MateriaisParaConstrucao\bin\Debug\AcessoDados.dll
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 27\MateriaisParaConstrucao\bin\Debug\RegraNegocio.pdb
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 27\MateriaisParaConstrucao\bin\Debug\AcessoDados.pdb
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 27\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPesquisaClientes.resources
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 27\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPesquisaVenda.resources
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - final aula 27\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - final aula 27\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - final aula 27\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.pdb
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\bin\Debug\RegraNegocio.dll
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\bin\Debug\AcessoDados.dll
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\bin\Debug\RegraNegocio.pdb
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\bin\Debug\AcessoDados.pdb
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csprojResolveAssemblyReference.cache
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmCategoria.resources
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmClientes.resources
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFuncionarios.resources
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmLogin.resources
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmNiveis.resources
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPesquisaClientes.resources
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPesquisaVenda.resources
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPrincipal.resources
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmProdutos.resources
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmRelatorios.resources
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUnidades.resources
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUsuarios.resources
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmVendas.resources
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.Properties.Resources.resources
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csproj.GenerateResource.Cache
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\obj\Debug\RdlCompile.cache
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\obj\Debug\RdlCompile.compiled
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\bin\Debug\RegraNegocio.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\bin\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\bin\Debug\RegraNegocio.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\bin\Debug\AcessoDados.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csprojResolveAssemblyReference.cache
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmCategoria.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmClientes.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFuncionarios.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmLogin.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmNiveis.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPesquisaClientes.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPesquisaVenda.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPrincipal.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmProdutos.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmRelatorios.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUnidades.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUsuarios.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmVendas.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.Properties.Resources.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csproj.GenerateResource.Cache
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\obj\Debug\RdlCompile.cache
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 27 - Copia\MateriaisParaConstrucao\obj\Debug\RdlCompile.compiled
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\bin\Debug\RegraNegocio.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\bin\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\bin\Debug\RegraNegocio.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\bin\Debug\AcessoDados.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csprojResolveAssemblyReference.cache
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmCategoria.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmClientes.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFinalizarVenda.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFuncionarios.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmLogin.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmNiveis.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPesquisaClientes.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPesquisaVenda.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPrincipal.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmProdutos.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmRelatorios.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUnidades.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUsuarios.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmVendas.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.Properties.Resources.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csproj.GenerateResource.Cache
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\obj\Debug\RdlCompile.cache
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\obj\Debug\RdlCompile.compiled
+C:\Users\eduardo\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+C:\Users\eduardo\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+C:\Users\eduardo\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+C:\Users\eduardo\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe
+C:\Users\eduardo\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.pdb
+C:\Users\eduardo\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\bin\Debug\RegraNegocio.dll
+C:\Users\eduardo\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\bin\Debug\AcessoDados.dll
+C:\Users\eduardo\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\bin\Debug\RegraNegocio.pdb
+C:\Users\eduardo\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\bin\Debug\AcessoDados.pdb
+C:\Users\eduardo\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csprojResolveAssemblyReference.cache
+C:\Users\eduardo\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmCategoria.resources
+C:\Users\eduardo\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmClientes.resources
+C:\Users\eduardo\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFinalizarVenda.resources
+C:\Users\eduardo\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFuncionarios.resources
+C:\Users\eduardo\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmLogin.resources
+C:\Users\eduardo\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmNiveis.resources
+C:\Users\eduardo\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPesquisaClientes.resources
+C:\Users\eduardo\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPesquisaVenda.resources
+C:\Users\eduardo\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPrincipal.resources
+C:\Users\eduardo\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmProdutos.resources
+C:\Users\eduardo\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmRelatorios.resources
+C:\Users\eduardo\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUnidades.resources
+C:\Users\eduardo\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUsuarios.resources
+C:\Users\eduardo\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmVendas.resources
+C:\Users\eduardo\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.Properties.Resources.resources
+C:\Users\eduardo\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csproj.GenerateResource.Cache
+C:\Users\eduardo\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\obj\Debug\RdlCompile.cache
+C:\Users\eduardo\Desktop\MateriaisParaConstrucao - final aula 29\MateriaisParaConstrucao\obj\Debug\RdlCompile.compiled
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Eduardo\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Eduardo\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Eduardo\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Eduardo\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Eduardo\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Eduardo\MateriaisParaConstrucao\bin\Debug\RegraNegocio.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Eduardo\MateriaisParaConstrucao\bin\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Eduardo\MateriaisParaConstrucao\bin\Debug\RegraNegocio.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Eduardo\MateriaisParaConstrucao\bin\Debug\AcessoDados.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Eduardo\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csprojResolveAssemblyReference.cache
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Eduardo\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmCategoria.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Eduardo\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmClientes.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Eduardo\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFinalizarVenda.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Eduardo\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFuncionarios.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Eduardo\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmLogin.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Eduardo\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmNiveis.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Eduardo\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPesquisaClientes.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Eduardo\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPesquisaVenda.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Eduardo\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPrincipal.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Eduardo\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmProdutos.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Eduardo\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmRelatorios.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Eduardo\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUnidades.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Eduardo\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUsuarios.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Eduardo\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmVendas.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Eduardo\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.Properties.Resources.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Eduardo\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csproj.GenerateResource.Cache
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Eduardo\MateriaisParaConstrucao\obj\Debug\RdlCompile.cache
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Eduardo\MateriaisParaConstrucao\obj\Debug\RdlCompile.compiled
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Gi\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Gi\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Gi\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Gi\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Gi\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Gi\MateriaisParaConstrucao\bin\Debug\RegraNegocio.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Gi\MateriaisParaConstrucao\bin\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Gi\MateriaisParaConstrucao\bin\Debug\RegraNegocio.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Gi\MateriaisParaConstrucao\bin\Debug\AcessoDados.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Gi\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csprojResolveAssemblyReference.cache
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Gi\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmCategoria.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Gi\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmClientes.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Gi\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFinalizarVenda.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Gi\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFuncionarios.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Gi\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmLogin.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Gi\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmNiveis.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Gi\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPesquisaClientes.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Gi\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPesquisaVenda.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Gi\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPrincipal.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Gi\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmProdutos.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Gi\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmRelatorios.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Gi\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUnidades.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Gi\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUsuarios.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Gi\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmVendas.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Gi\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.Properties.Resources.resources
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Gi\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csproj.GenerateResource.Cache
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Gi\MateriaisParaConstrucao\obj\Debug\RdlCompile.cache
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Gi\MateriaisParaConstrucao\obj\Debug\RdlCompile.compiled
+D:\Aula 30 - Rogério\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 30 - Copia (2)\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+D:\Aula 30 - Rogério\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 30 - Copia (2)\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+D:\Aula 30 - Rogério\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 30 - Copia (2)\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+D:\Aula 30 - Rogério\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 30 - Copia (2)\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe
+D:\Aula 30 - Rogério\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 30 - Copia (2)\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.pdb
+D:\Aula 30 - Rogério\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 30 - Copia (2)\MateriaisParaConstrucao\bin\Debug\RegraNegocio.dll
+D:\Aula 30 - Rogério\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 30 - Copia (2)\MateriaisParaConstrucao\bin\Debug\AcessoDados.dll
+D:\Aula 30 - Rogério\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 30 - Copia (2)\MateriaisParaConstrucao\bin\Debug\RegraNegocio.pdb
+D:\Aula 30 - Rogério\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 30 - Copia (2)\MateriaisParaConstrucao\bin\Debug\AcessoDados.pdb
+D:\Aula 30 - Rogério\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 30 - Copia (2)\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csprojResolveAssemblyReference.cache
+D:\Aula 30 - Rogério\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 30 - Copia (2)\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmCategoria.resources
+D:\Aula 30 - Rogério\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 30 - Copia (2)\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmClientes.resources
+D:\Aula 30 - Rogério\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 30 - Copia (2)\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFinalizarVenda.resources
+D:\Aula 30 - Rogério\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 30 - Copia (2)\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFuncionarios.resources
+D:\Aula 30 - Rogério\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 30 - Copia (2)\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmLogin.resources
+D:\Aula 30 - Rogério\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 30 - Copia (2)\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmNiveis.resources
+D:\Aula 30 - Rogério\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 30 - Copia (2)\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPesquisaClientes.resources
+D:\Aula 30 - Rogério\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 30 - Copia (2)\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPesquisaVenda.resources
+D:\Aula 30 - Rogério\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 30 - Copia (2)\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPrincipal.resources
+D:\Aula 30 - Rogério\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 30 - Copia (2)\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmProdutos.resources
+D:\Aula 30 - Rogério\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 30 - Copia (2)\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmRelatorios.resources
+D:\Aula 30 - Rogério\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 30 - Copia (2)\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmSplash.resources
+D:\Aula 30 - Rogério\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 30 - Copia (2)\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUnidades.resources
+D:\Aula 30 - Rogério\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 30 - Copia (2)\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUsuarios.resources
+D:\Aula 30 - Rogério\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 30 - Copia (2)\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmVendas.resources
+D:\Aula 30 - Rogério\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 30 - Copia (2)\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.Properties.Resources.resources
+D:\Aula 30 - Rogério\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 30 - Copia (2)\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csproj.GenerateResource.Cache
+D:\Aula 30 - Rogério\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 30 - Copia (2)\MateriaisParaConstrucao\obj\Debug\RdlCompile.cache
+D:\Aula 30 - Rogério\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 30 - Copia (2)\MateriaisParaConstrucao\obj\Debug\RdlCompile.compiled
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 30\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 30\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 30\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 30\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 30\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.pdb
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 30\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\RegraNegocio.dll
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 30\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\AcessoDados.dll
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 30\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\RegraNegocio.pdb
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 30\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\AcessoDados.pdb
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 30\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csprojResolveAssemblyReference.cache
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 30\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmCategoria.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 30\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmClientes.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 30\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFinalizarVenda.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 30\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFuncionarios.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 30\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmLogin.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 30\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmNiveis.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 30\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPesquisaClientes.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 30\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPesquisaVenda.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 30\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPrincipal.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 30\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmProdutos.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 30\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmRelatorios.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 30\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmSplash.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 30\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUnidades.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 30\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUsuarios.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 30\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmVendas.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 30\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.Properties.Resources.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 30\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csproj.GenerateResource.Cache
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 30\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\RdlCompile.cache
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 30\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\RdlCompile.compiled
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - teste\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - teste\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - teste\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - teste\MateriaisParaConstrucao\bin\Debug\Resources\ScriptBancoConstrucao.sql
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - teste\MateriaisParaConstrucao\bin\Debug\Resources\ScriptTabelasConstrucao.sql
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - teste\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - teste\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.pdb
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - teste\MateriaisParaConstrucao\bin\Debug\RegraNegocio.dll
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - teste\MateriaisParaConstrucao\bin\Debug\AcessoDados.dll
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - teste\MateriaisParaConstrucao\bin\Debug\RegraNegocio.pdb
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - teste\MateriaisParaConstrucao\bin\Debug\AcessoDados.pdb
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - teste\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csprojResolveAssemblyReference.cache
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - teste\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmCategoria.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - teste\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmClientes.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - teste\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFinalizarVenda.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - teste\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFuncionarios.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - teste\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmLogin.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - teste\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmNiveis.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - teste\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPesquisaClientes.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - teste\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPesquisaVenda.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - teste\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPrincipal.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - teste\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmProdutos.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - teste\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmRelatorios.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - teste\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmSplash.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - teste\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUnidades.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - teste\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUsuarios.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - teste\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmVendas.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - teste\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.Properties.Resources.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - teste\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csproj.GenerateResource.Cache
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - teste\MateriaisParaConstrucao\obj\Debug\RdlCompile.cache
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - teste\MateriaisParaConstrucao\obj\Debug\RdlCompile.compiled
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - inicial\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\Resources\ScriptBancoConstrucao.sql
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\Resources\ScriptTabelasConstrucao.sql
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.manifest
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.application
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.pdb
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\RegraNegocio.dll
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\AcessoDados.dll
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\RegraNegocio.pdb
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\AcessoDados.pdb
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csprojResolveAssemblyReference.cache
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmCategoria.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmClientes.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFinalizarVenda.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFuncionarios.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmLogin.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmNiveis.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPesquisaClientes.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPesquisaVenda.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPrincipal.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmProdutos.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmRelatorios.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmSplash.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUnidades.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUsuarios.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmVendas.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.Properties.Resources.resources
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csproj.GenerateResource.Cache
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\RdlCompile.cache
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\RdlCompile.compiled
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe.manifest
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.application
+C:\Documentos\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+C:\Documentos\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+C:\Documentos\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+C:\Documentos\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\Resources\ScriptBancoConstrucao.sql
+C:\Documentos\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\Resources\ScriptTabelasConstrucao.sql
+C:\Documentos\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.manifest
+C:\Documentos\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.application
+C:\Documentos\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe
+C:\Documentos\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.pdb
+C:\Documentos\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\RegraNegocio.dll
+C:\Documentos\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\AcessoDados.dll
+C:\Documentos\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\RegraNegocio.pdb
+C:\Documentos\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\AcessoDados.pdb
+C:\Documentos\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csprojResolveAssemblyReference.cache
+C:\Documentos\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmCategoria.resources
+C:\Documentos\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmClientes.resources
+C:\Documentos\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFinalizarVenda.resources
+C:\Documentos\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmFuncionarios.resources
+C:\Documentos\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmLogin.resources
+C:\Documentos\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmNiveis.resources
+C:\Documentos\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPesquisaClientes.resources
+C:\Documentos\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPesquisaVenda.resources
+C:\Documentos\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmPrincipal.resources
+C:\Documentos\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmProdutos.resources
+C:\Documentos\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmRelatorios.resources
+C:\Documentos\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmSplash.resources
+C:\Documentos\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUnidades.resources
+C:\Documentos\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmUsuarios.resources
+C:\Documentos\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.frmVendas.resources
+C:\Documentos\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.Properties.Resources.resources
+C:\Documentos\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.csproj.GenerateResource.Cache
+C:\Documentos\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\RdlCompile.cache
+C:\Documentos\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\RdlCompile.compiled
+C:\Documentos\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe.manifest
+C:\Documentos\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.application
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\Aula 32\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\Aula 32\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 32\Aula 32\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
+C:\Users\marli\Desktop\VCS4\Apostila\Aula 15\Material de Base (Corrigido)\Aula 32\MateriaisParaConstrucao - final\MateriaisParaConstrucao\bin\Debug\MateriaisParaConstrucao.exe.config
+C:\Users\marli\Desktop\VCS4\Apostila\Aula 15\Material de Base (Corrigido)\Aula 32\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.exe
+C:\Users\marli\Desktop\VCS4\Apostila\Aula 15\Material de Base (Corrigido)\Aula 32\MateriaisParaConstrucao - final\MateriaisParaConstrucao\obj\Debug\MateriaisParaConstrucao.pdb
