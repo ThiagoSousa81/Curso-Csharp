@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="MateriaisParaConstrucao.exe" version="1.0.0.0" publicKeyToken="9fa29a1e77112c8d" language="pt-BR" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="ícone_sistema.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="MateriaisParaConstrucao" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="MateriaisParaConstrucao.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.ReportViewer.Common" version="11.0.0.0" publicKeyToken="89845DCD8080CC91" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.ReportViewer.DataVisualization" version="11.0.0.0" publicKeyToken="89845DCD8080CC91" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.ReportViewer.ProcessingObjectModel" version="11.0.0.0" publicKeyToken="89845DCD8080CC91" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.ReportViewer.WinForms" version="11.0.0.0" publicKeyToken="89845DCD8080CC91" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.SqlServer.Types" version="11.0.0.0" publicKeyToken="89845DCD8080CC91" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AcessoDados.dll" size="56320">
+      <assemblyIdentity name="AcessoDados" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>AQJL6VArTFqFbowAhjv9puSOFB/qz15BUte9QKrNQjY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MateriaisParaConstrucao.exe" size="4152832">
+      <assemblyIdentity name="MateriaisParaConstrucao" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>TpiuOlXPvhkLRt2dofBV4X4qt5TE2c1fNvcQPFTSYzM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="pt\Microsoft.ReportViewer.WinForms.resources.dll" size="84920">
+      <assemblyIdentity name="Microsoft.ReportViewer.WinForms.resources" version="11.0.0.0" publicKeyToken="89845DCD8080CC91" language="pt" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>H95i0NCSoCH8psg8tyB2TYBXEAGARPd/x7HHoZNe/Ao=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RegraNegocio.dll" size="23552">
+      <assemblyIdentity name="RegraNegocio" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>dDriJD89J6GYTZ1jW5m9uIywJo66K74+eNj0fwwsFp0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="ícone_sistema.ico" size="101758">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>swG8KqMGkaOZV8yDTMyffz3y2AiiXWHAaKO8MkPwL5w=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="MateriaisParaConstrucao.exe.config" size="545">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>oht5TRu32ZyTbg3YDsodR2y50xXiFnRlsYiBZXY3CCA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\ScriptBancoConstrucao.sql" size="548">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>24P9LoASgwkxLzff2Ty9SrRfSdsL0qCP0s484KsxfBI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\ScriptTabelasConstrucao.sql" size="27840">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6eCb7O4xc7fizYwtge9chwul9hD2PtUdeOYG+u/g+fw=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=VM\elilize" issuerKeyHash="1745c9413155580fe5f67c7701b4547f6bc71195" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>fMlNi8ZnhzdUh7CS6LdYFBROzo88gRRMsKesBAFV164=</DigestValue></Reference></SignedInfo><SignatureValue>LsqGcCWWSkrbdAW2u9it+ICLM7n27shD+rxxLF7JszVE0LC/b1G2EeqNU53TWjUAoalPtwr2cyXPPhMNigEcAmHWom06T3Aueqv82c3bps0LT0r3+88N76ESjWjKCZrP9MhEGDlhxXVXzff1uo4GODGMgj3IiVWllG/WmZWX7cU=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>iEyHp1kuThKW9io4HTZbOygSk6ihV+BSqsIlymb7njTZwKfkyGcJRJaHDjdcyinxnF7wAIlSMrHqA9jH3zcwsC65E3OrBJLqem4oCWNxYDDVI/9Yt1cPMAwnxxZzH/EkEJ3tfGpmsgjXgh9GOIVGb50UDxrPQtXnQQjlxNbzJ58=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="aed7550104aca7b04c14813c8fce4e141458b7e892b08754378767c68b4dc97c" Description="" Url=""><as:assemblyIdentity name="MateriaisParaConstrucao.exe" version="1.0.0.0" publicKeyToken="9fa29a1e77112c8d" language="pt-BR" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=VM\elilize</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>1dNKBfwP0sVlgtMLIn5+9X29bVupKLXRPR456y3QDHg=</DigestValue></Reference></SignedInfo><SignatureValue>cmkCJvZSlgYtlIsR+IXp9khzkgLEI7MJ8Pk7KH5+NCVeC1CnrIMDbaO6pJ2X0lHESNIf2Aj+qc+ZiHsTPjENgeJQkgqCsvZI9cSGta5t+jmNHIvNfal8XxQEF89EyDw5nyw5sLCmMPOCOfPMJ/7Am8ZaIzmTjh6L4F1yJ7aTT2k=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>iEyHp1kuThKW9io4HTZbOygSk6ihV+BSqsIlymb7njTZwKfkyGcJRJaHDjdcyinxnF7wAIlSMrHqA9jH3zcwsC65E3OrBJLqem4oCWNxYDDVI/9Yt1cPMAwnxxZzH/EkEJ3tfGpmsgjXgh9GOIVGb50UDxrPQtXnQQjlxNbzJ58=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBwTCCASqgAwIBAgIQYpiDtgbT9LVM2oc6Kf56STANBgkqhkiG9w0BAQsFADAfMR0wGwYDVQQDHhQAVgBNAFwAZQBsAGkAbABpAHoAZTAeFw0xMzA1MDYxMzMzMDRaFw0xNDA1MDYxOTMzMDRaMB8xHTAbBgNVBAMeFABWAE0AXABlAGwAaQBsAGkAegBlMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCITIenWS5OEpb2KjgdNls7KBKTqKFX4FKqwiXKZvueNNnAp+TIZwlElocON1zKKfGcXvAAiVIyseoD2MffNzCwLrkTc6sEkup6bigJY3FgMNUj/1i3Vw8wDCfHFnMf8SQQne18amayCNeCH0Y4hUZvnRQPGs9C1edBCOXE1vMnnwIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAAJKYmwgVJ36i9vDEwQPgfx1jNk4BXY8TVYkXHW+4z+EyxK6bXu9hk18OcuBOit4DkWWXHYLlB5tXECnFIpb/0i7PHadu1CRInkQuJW1OXoyjWeuBpdDj1fNdNOiDZcvWzwyH7cVJJ2DIZbYcdAxPJmoDY45jrRCrah20I+jumQg</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
