@@ -1,0 +1,50 @@
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\AcessoDados\obj\Debug\AcessoDados.csprojResolveAssemblyReference.cache
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\AcessoDados\bin\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\AcessoDados\bin\Debug\AcessoDados.pdb
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\AcessoDados\obj\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\AcessoDados\obj\Debug\AcessoDados.pdb
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\AcessoDados\bin\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\AcessoDados\bin\Debug\AcessoDados.pdb
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\AcessoDados\obj\Debug\AcessoDados.csprojResolveAssemblyReference.cache
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\AcessoDados\obj\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\AcessoDados\obj\Debug\AcessoDados.pdb
+D:\MateriaisParaConstrucao - aula 18\AcessoDados\bin\Debug\AcessoDados.dll
+D:\MateriaisParaConstrucao - aula 18\AcessoDados\bin\Debug\AcessoDados.pdb
+D:\MateriaisParaConstrucao - aula 18\AcessoDados\obj\Debug\AcessoDados.csprojResolveAssemblyReference.cache
+D:\MateriaisParaConstrucao - aula 18\AcessoDados\obj\Debug\AcessoDados.dll
+D:\MateriaisParaConstrucao - aula 18\AcessoDados\obj\Debug\AcessoDados.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial\AcessoDados\bin\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial\AcessoDados\bin\Debug\AcessoDados.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial\AcessoDados\obj\Debug\AcessoDados.csprojResolveAssemblyReference.cache
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial\AcessoDados\obj\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial\AcessoDados\obj\Debug\AcessoDados.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 22\AcessoDados\bin\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 22\AcessoDados\bin\Debug\AcessoDados.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 22\AcessoDados\obj\Debug\AcessoDados.csprojResolveAssemblyReference.cache
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 22\AcessoDados\obj\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 22\AcessoDados\obj\Debug\AcessoDados.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - inicial aula 26 - teste\AcessoDados\bin\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - inicial aula 26 - teste\AcessoDados\bin\Debug\AcessoDados.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - inicial aula 26 - teste\AcessoDados\obj\Debug\AcessoDados.csprojResolveAssemblyReference.cache
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - inicial aula 26 - teste\AcessoDados\obj\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - inicial aula 26 - teste\AcessoDados\obj\Debug\AcessoDados.pdb
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 27\AcessoDados\bin\Debug\AcessoDados.dll
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 27\AcessoDados\bin\Debug\AcessoDados.pdb
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 27\AcessoDados\obj\Debug\AcessoDados.csprojResolveAssemblyReference.cache
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 27\AcessoDados\obj\Debug\AcessoDados.dll
+D:\Aula 27 - Giovana - OK\Documentos\Apostila\Atividade Extra\MateriaisParaConstrucao - inicial aula 27\AcessoDados\obj\Debug\AcessoDados.pdb
+C:\Users\eduardo\Desktop\MateriaisParaConstrucao - final aula 29\AcessoDados\bin\Debug\AcessoDados.dll
+C:\Users\eduardo\Desktop\MateriaisParaConstrucao - final aula 29\AcessoDados\bin\Debug\AcessoDados.pdb
+C:\Users\eduardo\Desktop\MateriaisParaConstrucao - final aula 29\AcessoDados\obj\Debug\AcessoDados.csprojResolveAssemblyReference.cache
+C:\Users\eduardo\Desktop\MateriaisParaConstrucao - final aula 29\AcessoDados\obj\Debug\AcessoDados.dll
+C:\Users\eduardo\Desktop\MateriaisParaConstrucao - final aula 29\AcessoDados\obj\Debug\AcessoDados.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Eduardo\AcessoDados\bin\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Eduardo\AcessoDados\bin\Debug\AcessoDados.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Eduardo\AcessoDados\obj\Debug\AcessoDados.csprojResolveAssemblyReference.cache
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Eduardo\AcessoDados\obj\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - final aula 29 - Eduardo\AcessoDados\obj\Debug\AcessoDados.pdb
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - teste\AcessoDados\bin\Debug\AcessoDados.dll
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - teste\AcessoDados\bin\Debug\AcessoDados.pdb
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - teste\AcessoDados\obj\Debug\AcessoDados.csprojResolveAssemblyReference.cache
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - teste\AcessoDados\obj\Debug\AcessoDados.dll
+C:\Users\elilize\Desktop\Arquivos Servidor - Projeto Materiais para Construção\Aula 31\MateriaisParaConstrucao - teste\AcessoDados\obj\Debug\AcessoDados.pdb

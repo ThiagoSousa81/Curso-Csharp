@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MateriaisParaConstrucao", "MateriaisParaConstrucao\MateriaisParaConstrucao.csproj", "{BA309356-E448-4113-95BB-AA133C5FB718}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegraNegocio", "RegraNegocio\RegraNegocio.csproj", "{104008B7-D127-44FF-813F-A9D7616D1D71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcessoDados", "AcessoDados\AcessoDados.csproj", "{BB9CC5F9-C78B-4995-A143-6C72EE6966F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA309356-E448-4113-95BB-AA133C5FB718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA309356-E448-4113-95BB-AA133C5FB718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA309356-E448-4113-95BB-AA133C5FB718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA309356-E448-4113-95BB-AA133C5FB718}.Release|Any CPU.Build.0 = Release|Any CPU
+		{104008B7-D127-44FF-813F-A9D7616D1D71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{104008B7-D127-44FF-813F-A9D7616D1D71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{104008B7-D127-44FF-813F-A9D7616D1D71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{104008B7-D127-44FF-813F-A9D7616D1D71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB9CC5F9-C78B-4995-A143-6C72EE6966F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB9CC5F9-C78B-4995-A143-6C72EE6966F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB9CC5F9-C78B-4995-A143-6C72EE6966F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB9CC5F9-C78B-4995-A143-6C72EE6966F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
